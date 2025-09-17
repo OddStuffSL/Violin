@@ -1,0 +1,17 @@
+{
+   "title":"A Violin Among the Stars",
+   "description":"Yoshida Yoshio, a boy who has been playing the violin since he was a child in order to live up to his parents' expectations. He feels burdened by this situation and is unable to fit in at his new school, leading a lonely life. One day, Yoshio spots a girl he has never seen before, Amano Tessera, in his classroom. Suspicious of her existence, Yoshio chases after Tessera, but...",
+   "artist":"Mihara Kazuto",
+   "author":"Mihara Kazuto",
+   "cover":"https://raw.githubusercontent.com/OddStuffSL/Violin/refs/heads/main/Covers/1.png",
+   "chapters":{
+      "1":{
+         "title":"Yoshida and Tessera",
+         "volume":"1",
+         "groups":{
+            "Odd Stuff":"/proxy/api/imgchest/chapter/5xy225j2zyl"
+         },
+         "last_updated":"1758129922"
+      }
+   }
+}
